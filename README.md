@@ -1,5 +1,4 @@
 # PHP-MySQL-Basic-ToDoList
-----------
 
 #### Kahve molasında sıkıntıdan yapılmış basic bir php mysql todolist uygulamasıdır...
 
